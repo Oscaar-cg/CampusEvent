@@ -29,7 +29,12 @@ Campus Event is an Android application designed to centralize university events 
 - Category-based filtering
 
 ## 🎬 Demo
-(Add screenshots or video here if needed)
+
+## Event Cards
+<img width="368" height="822" alt="Screenshot 2026-04-18 at 9 31 49 AM" src="https://github.com/user-attachments/assets/10ade55d-6644-4111-9be5-b831b6bbd943" />
+
+## Detail Event
+<img width="369" height="822" alt="Screenshot 2026-04-18 at 9 32 06 AM" src="https://github.com/user-attachments/assets/c7a2f319-c487-41a3-97d7-e9f9071c3471" />
 
 ## 👨‍💻 Author
 Oscar Canoa Galeano
